@@ -162,4 +162,4 @@ A collection of cli-tui softwares collected around.
 - [team-video/aviary.sh](https://github.com/team-video/aviary.sh) - Minimal distributed configuration management in bash
 
 
-Generated with love by [awesome-bookmarks](https://github.com/lgaggini/awesome-bookmarks).
+Generated with :heart: by [awesome-bookmarks](https://github.com/lgaggini/awesome-bookmarks).
