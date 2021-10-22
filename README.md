@@ -1,6 +1,6 @@
 # Awesome software/cli-tui
 
-A collection of cli-tui softwares collected around.
+A collection of my cli-tui software collected around
 
 ## Table of Contents
 
@@ -33,9 +33,11 @@ A collection of cli-tui softwares collected around.
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A tool for structural code search and replace that supports ~every language.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [facebook/PathPicker · GitHub](https://github.com/facebook/PathPicker) -
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [mooz/percol · GitHub](https://github.com/mooz/percol) -
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - Manage your shell commands.
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 - [SoptikHa2/desed](https://github.com/SoptikHa2/desed/) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
 
@@ -53,6 +55,8 @@ A collection of cli-tui softwares collected around.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
+- [skeeto/hastyhex](https://github.com/skeeto/hastyhex) - A blazing fast hex dumper
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 
 ## <a name="debug"></a>debug
 
@@ -83,6 +87,7 @@ A collection of cli-tui softwares collected around.
 - [micha/resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests.
 
 ## <a name="infra"></a>infra
 
@@ -91,6 +96,8 @@ A collection of cli-tui softwares collected around.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (formerly known as "what")
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
+- [Nudin/iptable_vis](https://github.com/Nudin/iptable_vis) - visualise your iptables chains
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - Fast, modern, easy-to-use network scanner
 - [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider.一个查询IP地理信息和CDN服务提供商的离线终端工具.
 
@@ -104,6 +111,7 @@ A collection of cli-tui softwares collected around.
 
 - [sqshq/sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf/) - The personal information dashboard for your terminal
+- [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 
 ## <a name="performance"></a>performance
 
@@ -132,6 +140,7 @@ A collection of cli-tui softwares collected around.
 - [gildasio/h2t](https://github.com/gildasio/h2t) - h2t (HTTP Hardening Tool) scans a website and suggests security headers to apply
 - [t4d/PhishingKitHunter](https://github.com/t4d/PhishingKitHunter) - Find phishing kits which use your brand/organization's files and image.
 - [Tuhinshubhra/CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) - CMS (Content Management Systems) Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and 80 other CMSs
+- [SteveD3/kit_hunter](https://github.com/SteveD3/kit_hunter) - A basic phishing kit scanner for dedicated and semi-dedicated hosting
 
 ## <a name="shell"></a>shell
 
@@ -142,6 +151,7 @@ A collection of cli-tui softwares collected around.
 - [nk412/tinylogger](https://github.com/nk412/tinylogger) - Lightweight logging framework for bash
 - [p-gen/smenu](https://github.com/p-gen/smenu) - Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor. Once done, your selection will be sent to standard output. Screencasts can be found in the Wiki
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - tmux session manager. built on libtmux
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 
 ## <a name="ssl"></a>ssl
 
