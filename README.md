@@ -26,6 +26,7 @@ A collection of my cli-tui software collected around
 
 - [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [richfelker/bakelite](https://github.com/richfelker/bakelite) - Incremental backup with strong cryptographic confidentiality baked into the data model.
 
 ## <a name="core"></a>core
 
@@ -57,6 +58,9 @@ A collection of my cli-tui software collected around
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
 - [skeeto/hastyhex](https://github.com/skeeto/hastyhex) - A blazing fast hex dumper
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+- [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats
 
 ## <a name="debug"></a>debug
 
@@ -77,6 +81,7 @@ A collection of my cli-tui software collected around
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [MarkForged/GOMP](https://github.com/MarkForged/GOMP) - GOMP (Git cOMPare) is a tool for comparing branches.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys 🔑
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 
 ## <a name="http"></a>http
 
@@ -86,7 +91,6 @@ A collection of my cli-tui software collected around
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [micha/resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests.
 
 ## <a name="infra"></a>infra
@@ -115,12 +119,17 @@ A collection of my cli-tui software collected around
 
 ## <a name="performance"></a>performance
 
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is a HTTP load testing application written in Rust inspired by Ansible syntax
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [ianmiell/autotrace](https://github.com/ianmiell/autotrace) - Runs a process, and gives you the output along with other telemetry on the process, all in one terminal window.
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [jaygooby/ttfb.sh](https://github.com/jaygooby/ttfb.sh) - Measures time-to-first-byte in seconds, for single or multiple URLs. Can calculate fastest, slowest & median TTFB values, and optionally log all response headers. Uses curl and the calculation `%{time_starttransfer} - %{time_appconnect}` which doesn't include any connection overhead, to better approximate devtool’s TTFB figure.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
+- [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [OpenSSL Cipher Speed · mdaxini/howto-openssl Wiki](https://github.com/mdaxini/howto-openssl/wiki/OpenSSL-Cipher-Speed) -
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine/) - A command-line benchmarking tool
+- [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 
 ## <a name="redis"></a>redis
 
@@ -165,6 +174,7 @@ A collection of my cli-tui software collected around
 
 - [cylgom/ly](https://github.com/cylgom/ly) - ncurses display manager
 - [ehaupt/cleanup-maildir](https://github.com/ehaupt/cleanup-maildir) - Script for cleaning up and archiving mails in Maildir folders based on arival date
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is like docker-compose, but for orchestrating a suite of processes, not containers.
 - [muesli/service-tools](https://github.com/muesli/service-tools) - A growing collection of convenient little tools to work with systemd services
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
