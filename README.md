@@ -8,6 +8,7 @@
 - [core](#core)
 - [data](#data)
 - [dns](#dns)
+- [file_managers](#file_managers)
 - [git](#git)
 - [http](#http)
 - [infra](#infra)
@@ -73,6 +74,15 @@
 - [measurement-factory/dnstop](https://github.com/measurement-factory/dnstop) - Stay on top of your DNS traffic
 - [ogham/dog](https://github.com/ogham/dog) - Command-line DNS client
 
+## <a name="file_managers"></a>file_managers
+
+- [GitHub - gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager · GitHub
+- [GitHub - jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager · GitHub
+- [GitHub - kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping · GitHub
+- [GitHub - sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer · GitHub
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+
 ## <a name="git"></a>git
 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
@@ -123,7 +133,7 @@
 - [sqshq/sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
-- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, and diffs.
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
 
 ## <a name="performance"></a>performance
 
@@ -155,6 +165,7 @@
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - tmux session manager. built on libtmux
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
+- [Alacritty - A cross-platform, OpenGL terminal emulator](https://alacritty.org/) -
 
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
