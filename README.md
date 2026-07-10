@@ -163,6 +163,7 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
+- [TerminallyLazy/Tree-Ring-Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first memory lifecycle for AI agents: Rust CLI/TUI with SQLite/FTS recall, redaction, audit, and framework adapters.
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - tmux session manager. built on libtmux
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [Alacritty - A cross-platform, OpenGL terminal emulator](https://alacritty.org/) -
