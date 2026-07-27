@@ -165,6 +165,7 @@
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
 - [TerminallyLazy/Tree-Ring-Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first memory lifecycle for AI agents: Rust CLI/TUI with SQLite/FTS recall, redaction, audit, and framework adapters.
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - tmux session manager. built on libtmux
+- [wes/paca](https://github.com/wes/paca) - Task, timer, and Stripe invoicing TUI for projects, with local-first SQLite storage
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [Alacritty - A cross-platform, OpenGL terminal emulator](https://alacritty.org/) -
 
