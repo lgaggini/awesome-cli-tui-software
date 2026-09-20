@@ -130,6 +130,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 
 ## <a name="monitoring"></a>monitoring
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay agent–model traffic for offline inspection.
 
 - [sqshq/sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
