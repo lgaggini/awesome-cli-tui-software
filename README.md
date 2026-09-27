@@ -89,6 +89,7 @@
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [GitHub - bmf-san/ggc](https://github.com/bmf-san/ggc) - A modern Git CLI tool with both traditional command-line and interactive incremental-search UI. · GitHub
+- [jedipunkz/gm](https://github.com/jedipunkz/gm) - A ghq-style repository manager with a built-in fuzzy finder, frecency ranking, and git worktree/branch/PR browsing
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys 🔑
 - [yylo-dev/yylo](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task, validation, merge, and release-readiness boundaries, dedicated branch/worktree per task, and a risk-based merge queue.
 
