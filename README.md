@@ -91,6 +91,7 @@
 - [GitHub - bmf-san/ggc](https://github.com/bmf-san/ggc) - A modern Git CLI tool with both traditional command-line and interactive incremental-search UI. · GitHub
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys 🔑
 - [yylo-dev/yylo](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task, validation, merge, and release-readiness boundaries, dedicated branch/worktree per task, and a risk-based merge queue.
+- [loki-inu/relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action for conventional-commit GitHub release notes; no API and no config file.
 
 ## <a name="http"></a>http
 
