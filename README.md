@@ -55,6 +55,7 @@
 - [jarun/Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager. Your mini web!
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [koenbollen/jl](https://github.com/koenbollen/jl) - jl — JSON Logs, a development tool for working with structured JSON logging.
+- [louis030195/hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust CLI for encrypted, append-only notes and files, with device sync and scoped, expiring MCP grants.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [mikefarah/yq](https://github.com/mikefarah/yq/) - yq is a portable command-line YAML processor
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
