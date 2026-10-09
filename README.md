@@ -94,6 +94,7 @@
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys 🔑
 - [yylo-dev/yylo](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task, validation, merge, and release-readiness boundaries, dedicated branch/worktree per task, and a risk-based merge queue.
 - [loki-inu/relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action for conventional-commit GitHub release notes; no API and no config file.
+- [rekurt/gitlab-downloader](https://github.com/rekurt/gitlab-downloader) - GitLab Dump CLI for cloning repositories and planning transfers between GitLab instances.
 
 ## <a name="http"></a>http
 
