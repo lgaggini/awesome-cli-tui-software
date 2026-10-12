@@ -138,6 +138,7 @@
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
+- [rekurt/prt](https://github.com/rekurt/prt) - Live port inspector for macOS and Linux with process details, SSH tunnel health, and JSON/CSV export.
 
 ## <a name="performance"></a>performance
 
