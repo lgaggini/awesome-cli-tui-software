@@ -59,6 +59,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [mikefarah/yq](https://github.com/mikefarah/yq/) - yq is a portable command-line YAML processor
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
+- [rekurt/dbdiff](https://github.com/rekurt/dbdiff) - CLI for comparing PostgreSQL, MySQL, and SQLite schemas and generating migration SQL.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [skeeto/hastyhex](https://github.com/skeeto/hastyhex) - A blazing fast hex dumper
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
