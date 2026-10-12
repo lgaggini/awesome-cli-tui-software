@@ -52,22 +52,22 @@
 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [eBay/tsv-utils](https://github.com/eBay/tsv-utils) - eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more.
+- [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [jarun/Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager. Your mini web!
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [koenbollen/jl](https://github.com/koenbollen/jl) - jl — JSON Logs, a development tool for working with structured JSON logging.
-- [louis030195/hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust CLI for encrypted, append-only notes and files, with device sync and scoped, expiring MCP grants.
+- [louis030195/hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - iCloud for agents. An encrypted, permissioned knowledge layer for humans and agents.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [mikefarah/yq](https://github.com/mikefarah/yq/) - yq is a portable command-line YAML processor
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
-- [rekurt/dbdiff](https://github.com/rekurt/dbdiff) - CLI for comparing PostgreSQL, MySQL, and SQLite schemas and generating migration SQL.
+- [rekurt/dbdiff](https://github.com/rekurt/dbdiff) - Compare database schemas, detect drift, and generate reviewable migration SQL. PostgreSQL, MySQL, SQLite, SQL files, and offline snapshots.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [skeeto/hastyhex](https://github.com/skeeto/hastyhex) - A blazing fast hex dumper
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
+- [wtfutil/wtf](https://github.com/wtfutil/wtf/) - The personal information dashboard for your terminal
 - [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
-- [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [wtfutil/wtf](https://github.com/wtfutil/wtf/) - The personal information dashboard for your terminal
 
 ## <a name="dns"></a>dns
 
@@ -91,11 +91,10 @@
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [GitHub - bmf-san/ggc](https://github.com/bmf-san/ggc) - A modern Git CLI tool with both traditional command-line and interactive incremental-search UI. · GitHub
-- [jedipunkz/gm](https://github.com/jedipunkz/gm) - A ghq-style repository manager with a built-in fuzzy finder, frecency ranking, and git worktree/branch/PR browsing
+- [jedipunkz/gm](https://github.com/jedipunkz/gm) - ghq-style repository manager with a built-in fuzzy finder, frecency ranking, and git worktree browsing
+- [loki-inu/relnote](https://github.com/loki-inu/relnote) - Offline CLI and GitHub Action for conventional-commit release notes. stdlib Python, no API, no config.
+- [rekurt/gitlab-downloader](https://github.com/rekurt/gitlab-downloader) - Clone GitLab groups and plan conservative transfers between GitLab instances with a CLI and desktop app.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Searches full repo history for secrets and keys 🔑
-- [yylo-dev/yylo](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task, validation, merge, and release-readiness boundaries, dedicated branch/worktree per task, and a risk-based merge queue.
-- [loki-inu/relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action for conventional-commit GitHub release notes; no API and no config file.
-- [rekurt/gitlab-downloader](https://github.com/rekurt/gitlab-downloader) - GitLab Dump CLI for cloning repositories and planning transfers between GitLab instances.
 
 ## <a name="http"></a>http
 
@@ -109,16 +108,16 @@
 
 ## <a name="infra"></a>infra
 
+- [antirez/hping](https://github.com/antirez/hping) - hping network tool
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is like docker-compose, but for orchestrating a suite of processes, not containers.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy/tree/master) - A network diagnostic tool
-- [hping3 | Penetration Testing Tools](https://tools.kali.org/information-gathering/hping3) -
+- [GitHub - orf/gping](https://github.com/orf/gping) - Ping, but with a graph · GitHub
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (formerly known as "what")
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - Fast, modern, easy-to-use network scanner
 - [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider.一个查询IP地理信息和CDN服务提供商的离线终端工具.
-- [GitHub - orf/gping](https://github.com/orf/gping) - Ping, but with a graph · GitHub
 
 ## <a name="k8s"></a>k8s
 
@@ -136,22 +135,22 @@
 
 ## <a name="monitoring"></a>monitoring
 
-- [sqshq/sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
-- [rekurt/prt](https://github.com/rekurt/prt) - Live port inspector for macOS and Linux with process details, SSH tunnel health, and JSON/CSV export.
+- [rekurt/prt](https://github.com/rekurt/prt) - Live network port inspector for macOS and Linux with process details, SSH tunnel health, alerts and JSON/CSV export
+- [sqshq/sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 
 ## <a name="performance"></a>performance
 
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
+- [GitHub - getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing · GitHub
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [jaygooby/ttfb.sh](https://github.com/jaygooby/ttfb.sh) - Measures time-to-first-byte in seconds, for single or multiple URLs. Can calculate fastest, slowest & median TTFB values, and optionally log all response headers. Uses curl and the calculation `%{time_starttransfer} - %{time_appconnect}` which doesn't include any connection overhead, to better approximate devtool’s TTFB figure.
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine/) - A command-line benchmarking tool
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-- [GitHub - getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing · GitHub
 
 ## <a name="scripting"></a>scripting
 
@@ -165,16 +164,16 @@
 
 ## <a name="tooling"></a>tooling
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [GitHub - zimfw/zimfw](https://github.com/zimfw/zimfw?tab=readme-ov-file) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
-- [TerminallyLazy/Tree-Ring-Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first memory lifecycle for AI agents: Rust CLI/TUI with SQLite/FTS recall, redaction, audit, and framework adapters.
+- [TerminallyLazy/Tree-Ring-Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolidation, DOX/Revolve adapters, and TUI.
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - tmux session manager. built on libtmux
-- [wes/paca](https://github.com/wes/paca) - Task, timer, and Stripe invoicing TUI for projects, with local-first SQLite storage
+- [wes/paca](https://github.com/wes/paca) - A simple tui app for task, timer and invoicing for projects.
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
-- [Alacritty - A cross-platform, OpenGL terminal emulator](https://alacritty.org/) -
 
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
