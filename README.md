@@ -151,6 +151,7 @@
 - [jaygooby/ttfb.sh](https://github.com/jaygooby/ttfb.sh) - Measures time-to-first-byte in seconds, for single or multiple URLs. Can calculate fastest, slowest & median TTFB values, and optionally log all response headers. Uses curl and the calculation `%{time_starttransfer} - %{time_appconnect}` which doesn't include any connection overhead, to better approximate devtool’s TTFB figure.
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine/) - A command-line benchmarking tool
+- [vpshostreview/vhr-vps-benchmark](https://github.com/vpshostreview/vhr-vps-benchmark) - Benchmarks a Linux server (sysbench CPU and memory, fio 4k random IOPS) in about a minute
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 
 ## <a name="scripting"></a>scripting
