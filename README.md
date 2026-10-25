@@ -117,6 +117,7 @@
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - Fast, modern, easy-to-use network scanner
+- [doomsday-network/doom-pay](https://github.com/doomsday-network/doom-pay) - CLI, MCP server, and 2-line Web3 checkout widget for accepting zero-fee DOOM (L1) and wDOOM (Base Mainnet) payments
 - [wes/jokku](https://github.com/wes/jokku) - Self-hosted PaaS on Firecracker microVMs with Dokku's commands, and a live TUI dashboard of servers, apps, traffic, databases and backups
 - [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider.一个查询IP地理信息和CDN服务提供商的离线终端工具.
 
