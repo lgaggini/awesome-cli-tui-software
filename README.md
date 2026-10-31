@@ -140,6 +140,7 @@
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
 - [rekurt/prt](https://github.com/rekurt/prt) - Live network port inspector for macOS and Linux with process details, SSH tunnel health, alerts and JSON/CSV export
+- [seifip/kilobat-cli](https://github.com/seifip/kilobat-cli) - macOS network diagnostics CLI with JSON output and a local MCP server.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 
 ## <a name="performance"></a>performance
