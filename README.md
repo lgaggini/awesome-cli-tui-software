@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [ai](#ai)
 - [backup](#backup)
 - [core](#core)
 - [data](#data)
@@ -19,6 +20,14 @@
 - [scripting](#scripting)
 - [ssl](#ssl)
 - [tooling](#tooling)
+
+## <a name="ai"></a>ai
+
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric/tree/main) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 
 ## <a name="backup"></a>backup
 
@@ -117,7 +126,7 @@
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - Fast, modern, easy-to-use network scanner
-- [wes/jokku](https://github.com/wes/jokku) - Self-hosted PaaS on Firecracker microVMs with Dokku's commands, and a live TUI dashboard of servers, apps, traffic, databases and backups
+- [wes/jokku](https://github.com/wes/jokku) - Dokku's workflow on Firecracker microVMs, across a cluster
 - [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider.一个查询IP地理信息和CDN服务提供商的离线终端工具.
 
 ## <a name="k8s"></a>k8s
@@ -151,7 +160,7 @@
 - [jaygooby/ttfb.sh](https://github.com/jaygooby/ttfb.sh) - Measures time-to-first-byte in seconds, for single or multiple URLs. Can calculate fastest, slowest & median TTFB values, and optionally log all response headers. Uses curl and the calculation `%{time_starttransfer} - %{time_appconnect}` which doesn't include any connection overhead, to better approximate devtool’s TTFB figure.
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine/) - A command-line benchmarking tool
-- [vpshostreview/vhr-vps-benchmark](https://github.com/vpshostreview/vhr-vps-benchmark) - Benchmarks a Linux server (sysbench CPU and memory, fio 4k random IOPS) in about a minute
+- [vpshostreview/vhr-vps-benchmark](https://github.com/vpshostreview/vhr-vps-benchmark) - Free, open-source CLI tool to benchmark a VPS (CPU, memory, disk) and upload results to your VPS Host Review account.
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 
 ## <a name="scripting"></a>scripting
