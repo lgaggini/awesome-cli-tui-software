@@ -16,6 +16,7 @@
 - [k8s](#k8s)
 - [logs](#logs)
 - [monitoring](#monitoring)
+- [payments](#payments)
 - [performance](#performance)
 - [scripting](#scripting)
 - [ssl](#ssl)
@@ -150,6 +151,10 @@
 - [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
 - [rekurt/prt](https://github.com/rekurt/prt) - Live network port inspector for macOS and Linux with process details, SSH tunnel health, alerts and JSON/CSV export
 - [sqshq/sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+
+## <a name="payments"></a>payments
+
+- [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) - Local x402 payment runtime and stdio MCP tools for AI agents; Apple Silicon macOS and Node 24 only.
 
 ## <a name="performance"></a>performance
 
