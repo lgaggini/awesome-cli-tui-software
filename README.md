@@ -119,6 +119,7 @@
 
 - [antirez/hping](https://github.com/antirez/hping) - hping network tool
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
+- [emirmrkaljevic/iotaudit](https://github.com/emirmrkaljevic/iotaudit) - Local CLI that audits smart devices on a network you own and writes a one page HTML report with an A to F grade.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is like docker-compose, but for orchestrating a suite of processes, not containers.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy/tree/master) - A network diagnostic tool
 - [GitHub - orf/gping](https://github.com/orf/gping) - Ping, but with a graph · GitHub
